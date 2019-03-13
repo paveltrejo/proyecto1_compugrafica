@@ -1,0 +1,6 @@
+﻿  proyecto_1.cpp
+c:\users\len\documents\escuela\compu grafica\proyecto1\proyecto_1\proyecto_1\proyecto_1.cpp(202): warning C4101: 'ysup': variable local sin referencia
+c:\users\len\documents\escuela\compu grafica\proyecto1\proyecto_1\proyecto_1\proyecto_1.cpp(210): warning C4101: 'xizq': variable local sin referencia
+c:\users\len\documents\escuela\compu grafica\proyecto1\proyecto_1\proyecto_1\proyecto_1.cpp(207): warning C4101: 'xder': variable local sin referencia
+c:\users\len\documents\escuela\compu grafica\proyecto1\proyecto_1\proyecto_1\proyecto_1.cpp(204): warning C4101: 'yinf': variable local sin referencia
+  Proyecto_1.vcxproj -> C:\Users\len\Documents\escuela\Compu grafica\proyecto1\Proyecto_1\Debug\Proyecto_1.exe
